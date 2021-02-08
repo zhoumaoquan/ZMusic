@@ -1,0 +1,11 @@
+export const CHANGE_CURRENT_SONG = "player/CHANGE_CURRENT_SONG";
+
+export const CHANGE_PLAYER_LIST = "player/CHANGE_PLAYER_LIST";
+
+export const CHANGE_CURRENT_INDEX = "player/CHANGE_CURRENT_INDEX";
+
+export const CHANGE_MUSIC_ORDER =  "player/CHANGE_MUSIC_ORDER";
+
+export const CHANGE_LYRIC_LIST = 'player/CHANGE_LYRIC_LIST';
+
+export const CHANGE_LYRIC_LIST_INDEX = 'player/CHANGE_LYRIC_LIST_INDEX';
